@@ -1,2 +1,5 @@
-# meu-primeiro-reposit-rio
-Meu primeiro repositório na SpTech School 1asdb-2022/2
+#Aula Git Hub 
+## Iniciando
+Meu primeiro repositório na SpTech School 1asdb-2022/2 P.I
+
+
